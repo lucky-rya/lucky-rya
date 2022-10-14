@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on programming
+- 🌱 I’m currently learning how to programming
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucky-rya&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
